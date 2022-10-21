@@ -1,0 +1,30 @@
+D:\USERDATA\Desktop\c#_Lesson3\HOMEWORK_3\bin\Debug\net6.0\HOMEWORK_3.exe
+D:\USERDATA\Desktop\c#_Lesson3\HOMEWORK_3\bin\Debug\net6.0\HOMEWORK_3.deps.json
+D:\USERDATA\Desktop\c#_Lesson3\HOMEWORK_3\bin\Debug\net6.0\HOMEWORK_3.runtimeconfig.json
+D:\USERDATA\Desktop\c#_Lesson3\HOMEWORK_3\bin\Debug\net6.0\HOMEWORK_3.dll
+D:\USERDATA\Desktop\c#_Lesson3\HOMEWORK_3\bin\Debug\net6.0\HOMEWORK_3.pdb
+D:\USERDATA\Desktop\c#_Lesson3\HOMEWORK_3\obj\Debug\net6.0\HOMEWORK_3.csproj.AssemblyReference.cache
+D:\USERDATA\Desktop\c#_Lesson3\HOMEWORK_3\obj\Debug\net6.0\HOMEWORK_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\USERDATA\Desktop\c#_Lesson3\HOMEWORK_3\obj\Debug\net6.0\HOMEWORK_3.AssemblyInfoInputs.cache
+D:\USERDATA\Desktop\c#_Lesson3\HOMEWORK_3\obj\Debug\net6.0\HOMEWORK_3.AssemblyInfo.cs
+D:\USERDATA\Desktop\c#_Lesson3\HOMEWORK_3\obj\Debug\net6.0\HOMEWORK_3.csproj.CoreCompileInputs.cache
+D:\USERDATA\Desktop\c#_Lesson3\HOMEWORK_3\obj\Debug\net6.0\HOMEWORK_3.dll
+D:\USERDATA\Desktop\c#_Lesson3\HOMEWORK_3\obj\Debug\net6.0\refint\HOMEWORK_3.dll
+D:\USERDATA\Desktop\c#_Lesson3\HOMEWORK_3\obj\Debug\net6.0\HOMEWORK_3.pdb
+D:\USERDATA\Desktop\c#_Lesson3\HOMEWORK_3\obj\Debug\net6.0\HOMEWORK_3.genruntimeconfig.cache
+D:\USERDATA\Desktop\c#_Lesson3\HOMEWORK_3\obj\Debug\net6.0\ref\HOMEWORK_3.dll
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson3\HOMEWORK_3\bin\Debug\net6.0\HOMEWORK_3.exe
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson3\HOMEWORK_3\bin\Debug\net6.0\HOMEWORK_3.deps.json
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson3\HOMEWORK_3\bin\Debug\net6.0\HOMEWORK_3.runtimeconfig.json
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson3\HOMEWORK_3\bin\Debug\net6.0\HOMEWORK_3.dll
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson3\HOMEWORK_3\bin\Debug\net6.0\HOMEWORK_3.pdb
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson3\HOMEWORK_3\obj\Debug\net6.0\HOMEWORK_3.csproj.AssemblyReference.cache
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson3\HOMEWORK_3\obj\Debug\net6.0\HOMEWORK_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson3\HOMEWORK_3\obj\Debug\net6.0\HOMEWORK_3.AssemblyInfoInputs.cache
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson3\HOMEWORK_3\obj\Debug\net6.0\HOMEWORK_3.AssemblyInfo.cs
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson3\HOMEWORK_3\obj\Debug\net6.0\HOMEWORK_3.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson3\HOMEWORK_3\obj\Debug\net6.0\HOMEWORK_3.dll
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson3\HOMEWORK_3\obj\Debug\net6.0\refint\HOMEWORK_3.dll
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson3\HOMEWORK_3\obj\Debug\net6.0\HOMEWORK_3.pdb
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson3\HOMEWORK_3\obj\Debug\net6.0\HOMEWORK_3.genruntimeconfig.cache
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson3\HOMEWORK_3\obj\Debug\net6.0\ref\HOMEWORK_3.dll
